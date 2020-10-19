@@ -1,0 +1,22 @@
+body{
+    background:url(../img/img.jpg)center;
+}
+h1{
+    text-align: center;
+    color: brown;
+    padding-top: 50px;
+
+}
+h3{
+    text-align:center ;
+    color: chartreuse;
+}
+footer{
+    text-align: center;
+    color: cyan;
+    padding: 10px;
+}
+.sub{
+    margin-left:-50px;
+    margin: 50px;
+}
